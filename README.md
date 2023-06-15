@@ -15,4 +15,10 @@ List of mods included in this pack (and what they do).
  - [x] WidescreenFix - Adds support to run the game at 1920x1080 (based on your monitor's available resolution) and fixes HUD, Radar size and placement. 
  - [x] LimitAdjuster - Lets you control limits that the game has and some other thingies that you can mess with. 
  - [x] WindowedMode - Runs the game in Windowed Borderless. You can delete this from <b>scripts</b> folder if you don't need it. (Delete <b>III.VC.SA.WindowedMode.ini ; III.VC.SA.WindowedMode.asi</b>files and you're good to go.
+ - [x] MixSets - Another mod with lots of fixes & tweaks just like <b>SilentPatch</b>. 
+ - [x] RepairGTA - Fixes problems.
+ - [x] rundll32exefix - Plugin that fixes game not launching and no errors/windows pop up. It simply disables rundll32.exe process.
+ - [x] SilentPatch - Plugin that also does fixes & tweaks just like MixSets. <b>NOTE: Both MixSets and SilentPatch work in pair perfectly!</b>.
  
+ Note: All credits go to original mod owners. I'm not owning any of these. I just made this pack so you don't need to manually
+ install those mods/or search for them. 
